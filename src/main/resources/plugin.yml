@@ -1,0 +1,6 @@
+name: SmartJoinMessage
+version: '${version}'
+main: hirosuke.smartjoinmessage.SmartJoinMessage
+prefix: SmartJoinMsg
+authors: [ Hirosuke ]
+description: Remove "formerly known as" message from join message.
