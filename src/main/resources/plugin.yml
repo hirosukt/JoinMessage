@@ -1,6 +1,11 @@
-name: SmartJoinMessage
+name: JoinMessage
 version: '${version}'
-main: hirosuke.smartjoinmessage.SmartJoinMessage
-prefix: SmartJoinMsg
+main: hirosuke.joinmessage.JoinMessage
+prefix: JoinMessage
 authors: [ Hirosuke ]
 description: Remove "formerly known as" message from join message.
+commands:
+  setjoinmsg:
+    usage: /setjoinmsg <msg>
+  setquitmsg:
+    usage: /setquitmsg <msg>
