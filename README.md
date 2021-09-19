@@ -1,10 +1,10 @@
 # JoinMessage
-The plugin adds command to change join/left messages.  
+Change join/left messages.  
 If you have a problem, you can get support in [my discord server](https://discord.gg/A8XtpJhHrV).
 
 Worked in: 1.8 1.9 1.10 1.11 1.12 1.13 1.14 1.15 1.16
 
-Page : 
+Page : https://www.spigotmc.org/resources/joinmessage.96332/
 
 ## Commands
 {} is a optional argument.  
