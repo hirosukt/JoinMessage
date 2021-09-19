@@ -10,9 +10,9 @@ Page :
 {} is a optional argument.  
 Color code is supported. use "&".
 
-* **/setjoinmsg <message>**  
+* **/setjoinmsg \<message>**  
 set join message.
-* **/setquitmsg <message>**  
+* **/setquitmsg \<message>**  
 set left message.
 
 Use "{player}" in msg string will be replaced to joined/left player name.
