@@ -1,4 +1,4 @@
-# fspeed
+# JoinMessage
 The plugin adds command to change join/left messages.  
 If you have a problem, you can get support in [my discord server](https://discord.gg/A8XtpJhHrV).
 
@@ -11,9 +11,9 @@ Page :
 Support color code, use "&".
 
 * **/setjoinmsg <msg>**  
-change player's fly speed.
+set join message.
 * **/wspeed, /ws, \<amount>**  
-change player's walk speed.
+set left message.
 
 Use "{player}" in msg string will be replaced to joined/left player name.
 
