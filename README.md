@@ -7,8 +7,8 @@ Worked in: 1.8 1.9 1.10 1.11 1.12 1.13 1.14 1.15 1.16
 Page : 
 
 ## Commands
-{} is a optional argument.
-Support color code, use "&".
+{} is a optional argument.  
+Color code is supported. use "&".
 
 * **/setjoinmsg <msg>**  
 set join message.
