@@ -15,8 +15,8 @@ class JoinMessage : JavaPlugin(), Listener {
 
     override fun onEnable() {
         instance = this
-        config.addDefault("join", "{player} has joined.")
-        config.addDefault("quit", "{player} has left.")
+        config.addDefault("join", "&e{player} has joined.")
+        config.addDefault("quit", "&e{player} has left.")
         config.options().copyDefaults(true)
         saveConfig()
 
